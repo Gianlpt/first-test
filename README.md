@@ -4,5 +4,5 @@
 
 
 ```
-node aoo.js
+node app.js
 ```
