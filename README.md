@@ -4,5 +4,5 @@
 
 
 ```
-npm install react
+node aoo.js
 ```
