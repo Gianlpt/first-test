@@ -1,1 +1,1 @@
-console.log ("Rodando o sistema de gerenciamento de livors")
+console.log ("Rodando o sistema de gerenciamento de livros")
